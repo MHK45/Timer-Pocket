@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer Pocket</string>
+    <string name="take_promodoro">Take a Promodoro...</string>
+    <string name="keep_going">Keep going ...</string>
+    <string name="start"> START</string>
+    <string name="reset"> <u>Reset</u></string>
+    <string name="timer"> 5:00</string>
+
+</resources>
